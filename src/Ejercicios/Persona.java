@@ -9,8 +9,7 @@ package Ejercicios;
  */
 public class Persona {
 
-	/**
-	 * @param args
+	/*
 	 * Crear una clase llamada Persona con los atributos: Nombre, Apellido, DNI, Domicilio. Con  los métodos: Constructor 
 	 * y un método que permita mostrar la información de la persona.  
 	 */
